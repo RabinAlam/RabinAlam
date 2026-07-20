@@ -37,7 +37,8 @@ Foundry-based crowdfunding smart contract with price feed integration and withdr
 ---
 
 ### Technology Breakdown
-Solidity (58%) • Python (22%) • C++ (12%) • java (8%) • SQL • React
+ Rust • Solidity   • C • C++  • java  • Python • SQL 
+
 
 ---
 
